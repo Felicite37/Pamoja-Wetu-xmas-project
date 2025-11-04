@@ -163,7 +163,7 @@ export default function Page() {
       <footer className="bg-green-800 text-white py-6 text-center">
         <p>📍 Kigali, Rwanda</p>
         <p className="text-sm mt-2">
-          © {new Date().getFullYear()} Pamoja Wetu — All Rights Reserved
+          © {new Date().getFullYear()} Pamoja Wetu — All Rights Reserved 
         </p>
       </footer>
     </main>

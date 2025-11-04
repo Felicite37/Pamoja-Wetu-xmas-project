@@ -1,36 +1,93 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+.
 
-## Getting Started
+🎄 Pamoja Wetu Christmas Support Project
+🌟 Overview
 
-First, run the development server:
+Pamoja Wetu Christmas Project is a community-driven initiative designed to bring joy and hope to children during Christmas.
+This website helps raise awareness, collect support messages, and share the founder’s mission to make a difference during the festive season.
 
-```bash
+🚀 Features
+
+🎁 Hero Section: Inspiring banner with a call to action
+
+❤️ About Section: Learn more about the Pamoja Wetu mission
+
+🌿 Founder Section: Story of Faith Yvonne UWIMANA
+
+✉️ Contact Form: Visitors can send support messages directly
+
+📍 Responsive Design: Fully optimized for mobile and desktop
+
+🎨 Styled with Tailwind CSS
+
+🧩 Tech Stack
+
+Next.js 16
+ – React Framework
+
+TypeScript
+ – Type Safety
+
+Tailwind CSS
+ – Styling
+
+Vercel
+ – Deployment Platform
+
+⚙️ Installation & Setup
+
+Clone the repository
+
+git clone https://github.com/Felicite37/pamoja-wetu-xmas.git
+cd pamoja-wetu-xmas
+
+
+Install dependencies
+
+npm install
+
+
+Run the development server
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Then open http://localhost:3000
+ to see the project.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🌐 Deployment (Vercel)
 
-## Learn More
+You can deploy this app easily using Vercel
+:
 
-To learn more about Next.js, take a look at the following resources:
+Push your project to GitHub.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Go to vercel.com/new
+.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Import your GitHub repository.
 
-## Deploy on Vercel
+Click Deploy.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Vercel will automatically build and host your app.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🧠 Troubleshooting
+
+If deployment fails:
+
+Ensure you committed and pushed all files.
+
+Make sure next, react, and react-dom are installed.
+
+Confirm tailwindcss and postcss setup correctly.
+
+Remove any .next folder locally before redeploying:
+
+rm -rf .next
+
+📞 Contact
+
+Founder: Faith Yvonne UWIMANA
+Location: Kigali, Rwanda
+Email: info@pamojawetu.org
+ (example placeholder)
